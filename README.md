@@ -3,10 +3,11 @@
 Una calculadora inspirada en macOS desarrollada con Electron.
 
 ## 📌 Características
-✅ Diseño similar a la calculadora de macOS.
-✅Interfaz moderna con efecto de transparencia.
-✅Funcionalidad básica de una calculadora.
-✅Botones estilo macOS (cerrar, minimizar y maximizar).
+
+✅ **Diseño similar a la calculadora de macOS**
+✅ **Interfaz moderna con efecto de transparencia**
+✅ **Funcionalidad básica de una calculadora**
+✅ **Botones estilo macOS (cerrar, minimizar y maximizar)**
 
 ## 🛠️ Tecnologías Usadas
 - **Electron**: Para crear la aplicación de escritorio.
