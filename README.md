@@ -9,6 +9,13 @@ Una calculadora inspirada en macOS desarrollada con Electron.
 ✅ **Funcionalidad básica de una calculadora**
 ✅ **Botones estilo macOS (cerrar, minimizar y maximizar)**
 
+## 📌 Características  
+
+✅ **Generación de piezas aleatorias**  
+✅ **Rotación y movimiento fluido de las piezas**  
+✅ **Detección de colisiones y eliminación de filas completas**  
+✅ **Estilos personalizables con CSS**  
+
 ## 🛠️ Tecnologías Usadas
 - **Electron**: Para crear la aplicación de escritorio.
 - **HTML, CSS, JavaScript**: Para la interfaz de usuario.
