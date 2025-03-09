@@ -1,4 +1,4 @@
-# 📟 macOS Calculator
+# 📟 MacOs Calculator
 
 Una calculadora inspirada en macOS desarrollada con Electron.
 
